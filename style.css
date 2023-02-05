@@ -1,16 +1,16 @@
 @font-face {
     font-family: font800;
-    src: url(ExtraBold.ttf);
+    src: url(fonts/ExtraBold.ttf);
   }
 
   @font-face {
     font-family: font600;
-    src: url(SemiBold.ttf);
+    src: url(fonts/SemiBold.ttf);
   }
 
   @font-face {
     font-family: font300;
-    src: url(Light.ttf);
+    src: url(fonts/Light.ttf);
   }
 
   body {
