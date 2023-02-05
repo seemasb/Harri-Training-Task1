@@ -259,6 +259,7 @@ h1{
     flex-wrap: wrap;
     padding-top: 37px;
     column-gap: 10px;
+    margin-bottom: 40px;
 }
 
 .Info_country_name{
